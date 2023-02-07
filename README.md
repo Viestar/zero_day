@@ -1,0 +1,1 @@
+A machine on top of my machine called a Virtual Machine using Vagrant to be able manage different requirements for different enviornments. let's experience this together.
